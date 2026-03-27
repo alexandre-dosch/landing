@@ -1,0 +1,13 @@
+.btn-blue{
+	background-color: #a81d1d;
+	padding: 10px 25px;
+	border-radius: 6px;
+	text-decoration: none;
+	color: white;
+	font-family: Mories Luxerie;
+}
+
+.btn-blue:hover {
+	background-color: whitesmoke;
+	color: #a81d1d;
+}
